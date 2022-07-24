@@ -14,9 +14,9 @@ are immediately reward with your quotes. Enjoy!
 
 ===================================
 TECHNOLOGIES:
-React.js
-The Rick and Morty API - https://rickandmortyapi.com/
-Quotes Free API - {No Documentation}
+React.js ||  
+The Rick and Morty API - https://rickandmortyapi.com/ ||  
+Quotes Free API - {No Documentation}  
 _________________________________________________________________________________________________
 ===================================
 FIGMA WIREFRAME: https://www.figma.com/file/Yiu64bJm6AkPqYEFtO1qmD/Rick-Zen-Morty?node-id=0%3A1
