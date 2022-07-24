@@ -13,10 +13,10 @@ a number between 1 and 5. Upon your entry you
 are immediately reward with your quotes. Enjoy!
 
 ===================================
-TECHNOLOGIES:
+TECHNOLOGIES:  
 React.js ||  
 The Rick and Morty API - https://rickandmortyapi.com/ ||  
-Quotes Free API - {No Documentation}  
+Quotes Free API - {No Documentation} ||
 _________________________________________________________________________________________________
 ===================================
 FIGMA WIREFRAME: https://www.figma.com/file/Yiu64bJm6AkPqYEFtO1qmD/Rick-Zen-Morty?node-id=0%3A1
