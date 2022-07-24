@@ -1,5 +1,5 @@
----------------Rick--Zen--Morty-----------------
-----------------Documentation-------------------
+||---------------Rick--Zen--Morty-----------------||
+||----------------Documentation-------------------||
 SUMMARY:
 Take a moment to reflect on life and maybe laugh
 a bit too. Rick Zen Morty combines thoughtful 
